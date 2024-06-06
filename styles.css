@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    line-height: 11.6;
+    line-height: 1.6;
     background-color: #f4f4f4;
 }
 
@@ -45,7 +45,7 @@ section {
 #home {
     background: url('img/agriculture.jpg') no-repeat center center/cover;
     color: white;
-    height: 400px;
+    height: 4000px;
     display: flex;
     flex-direction: column;
     justify-content: center;
